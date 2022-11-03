@@ -1,0 +1,18 @@
+# bestfriend = "Eric"
+
+# if bestfriend = true
+# puts "Eric"
+# else 
+#     puts "jon"
+# end
+
+
+bestfriend = true
+
+if bestfriend == true
+    puts "yay!"
+elsif bestfriend == "good"
+    puts "jon"
+else 
+  puts "lets be friends"
+end
